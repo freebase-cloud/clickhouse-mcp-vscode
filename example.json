@@ -1,0 +1,6 @@
+{
+  "name": "clickhouse-mcp-vscode",
+  "engine": "clickhouse",
+  "slug": "clickhouse",
+  "kind": "mcp"
+}
